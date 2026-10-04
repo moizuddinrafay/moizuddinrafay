@@ -72,7 +72,7 @@ Uses a shell script and rule-file review to identify duplicate rule IDs, resolve
 
 A hands-on lab connecting Wazuh alerts to Shuffle webhooks, covering setup, workflow configuration and verification of forwarded security events.
 
-[Read on LinkedIn](https://www.linkedin.com/pulse/wazuh-shuffle-soar-integration-muhammad-moiz-ud-din-rafay-xohaf)
+[Read on LinkedIn](https://medium.com/@moizuddinrafay/wazuh-shuffle-soar-integration-f442afaba1c6?sharedUserId=moizuddinrafay)
 
 ## Android Hacking - Part 02
 
