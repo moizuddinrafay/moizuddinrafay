@@ -1,40 +1,23 @@
-# Muhammad Moiz Uddin Rafay
+# Muhammad Moiz Uddin Rafay — Wazuh Consulting Portfolio
 
-**Cybersecurity & SIEM Engineering · Wazuh Ambassador**
+Live website: https://moizuddinrafay.github.io/moizuddinrafay/
 
-I deploy Wazuh SIEM, integrate security tools and develop detections that support SOC investigations and incident response. Open to cybersecurity engineering opportunities and freelance SIEM projects.
+Static HTML, CSS and JavaScript. GitHub Pages serves the repository root. No dependencies or build step.
 
-## Engineering focus
+## Pages
+- Overview: index.html
+- Services: services.html
+- Projects: case-studies.html
+- Training: training.html
+- Technical writing: articles.html
+- Professional background: profile.html
+- Delivery approach: delivery.html
+- Illustrative handover template: handover-checklist.html
+- Project enquiry: contact.html
 
-- Wazuh deployment, configuration and log onboarding
-- Custom decoders, rules, CDB lists and detection validation
-- EDR, firewall, threat-intelligence and SOAR integrations
-- Python and shell automation, threat hunting and technical training
+## Accuracy and maintenance
+Client project summaries use supplied scope; no endpoint counts, metrics, testimonials or acceptance evidence are invented. The architecture and checklist are explicitly illustrative. Credential links lead to the professional profile; direct issuer verification is not claimed. Historical expiry dates are retained.
 
-## Explore my work
+The contact form only creates a mailto draft link. It has no backend and does not send or store submissions. Review all service commitments before accepting an engagement.
 
-- [Official Wazuh Ambassador profile](https://wazuh.com/ambassadors/muhammad-moiz-ud-din-rafay/)
-- [Medium articles](https://moizuddinrafay.medium.com/)
-- [LinkedIn](https://linkedin.com/in/moizuddinrafay)
-- [17 article titles, summaries and individual links](ARTICLES.md)
-
-## Contact
-
-- [WhatsApp: +92-300-4962168](https://wa.me/923004962168)
-- [Email: muhammadmoizuddinrafay@gmail.com](mailto:muhammadmoizuddinrafay@gmail.com)
-
-## Website
-
-This repository contains a static portfolio at `index.html` and the article catalogue at `articles.html`. No build or package installation is required.
-
-**Publish:** Repository Settings → Pages → Deploy from a branch → main → / (root) → Save. GitHub will display the confirmed website URL when deployment completes. The expected base URL is https://moizuddinrafay.github.io/moizuddinrafay/ .
-
-**Local preview:** `python3 -m http.server 8000` from the repository directory.
-
-Update `index.html` for portfolio content, `articles.html` for article cards, `articles.json` for the structured catalogue, and `style.css` for styling.
-
-## Content sources
-
-Biography and community recognition are based on the official Wazuh Ambassador profile. The portrait comes from that profile. Article titles and summaries were checked against publicly accessible Medium and LinkedIn pages on 4 October 2026. Seventeen distinct articles were found; cross-posts are listed once. Full archive access was blocked, so completeness beyond the accessible pages could not be independently confirmed.
-
-No invented employment dates, client testimonials, project metrics or current certification claims are included.
+Content to add when available: approved testimonials, measured case-study outcomes, sanitized client artifacts, issuer verification URLs, actual availability, and confirmed contracting details.
