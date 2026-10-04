@@ -77,9 +77,9 @@
     "summary": "Uses a shell script and rule-file review to identify duplicate rule IDs, resolve conflicts and validate a cleaner Wazuh ruleset."
   },
   {
-    "title": "Wazuh – Shuffle SOAR INTEGRATION",
+    "title": "Wazuh — Shuffle — SOAR Integration",
     "category": "SIEM integrations",
-    "platform": "LinkedIn",
+    "platform": "Medium",
     "url": "https://medium.com/@moizuddinrafay/wazuh-shuffle-soar-integration-f442afaba1c6?sharedUserId=moizuddinrafay",
     "summary": "A hands-on lab connecting Wazuh alerts to Shuffle webhooks, covering setup, workflow configuration and verification of forwarded security events."
   },
